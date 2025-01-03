@@ -28,3 +28,4 @@ Bu proje, el emeği ürünler satışı yapan bir e-ticaret sitesinin temel işl
 
 
 # proje
+# deneme
